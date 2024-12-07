@@ -21,7 +21,7 @@ Put on your favourite song and give it a try!
 <pre>
 Party Fears Two - the Associates
 
-1:10   ━━━━━❍───────────   -5:12
+1:10   ━━━━━❍───────────    5:12
 
 ↻       ⊲     Ⅱ     ⊳        ↺
 
